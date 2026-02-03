@@ -9,7 +9,6 @@ export default function Approach() {
 
     return (
         <section className="w-full grid grid-cols-1 md:grid-cols-2">
-            
             <div className="relative h-[600px] md:h-auto bg-[#CCC] min-h-[500px]">
                 <img
                     src="/office-1.jpg"
