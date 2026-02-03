@@ -1,6 +1,6 @@
 # Grow My Therapy - Dr. Maya Reynolds Redesign
 
-### [🚀 View Live Demo](https://your-vercel-link.vercel.app)
+### [🚀 View Live Demo](https://grow-my-therapy-maya-v2.vercel.app/)
 
 ## 📋 Project Overview
 This project is a high-fidelity redesign of a mental health platform, specifically tailored for **Dr. Maya Reynolds, PhD**. The goal was to clone the sophisticated "Lilac" Squarespace template and adapt it using a custom, calming aesthetic suitable for a professional therapy practice in Seattle, WA.
@@ -19,6 +19,8 @@ This project is a high-fidelity redesign of a mental health platform, specifical
 - **Design-Forward UI:** Replicated complex design elements like circular/oval image masks and alternating content sections.
 
 ## 🚀 Getting Started
+
+Git Hub: https://github.com/KeshavxA
 
 First, install the dependencies:
 
